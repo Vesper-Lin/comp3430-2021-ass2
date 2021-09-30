@@ -1,0 +1,13 @@
+Your student data set for the second data wrangling 2021 assignment
+has been generated and written into file:
+
+  data_wrangling_education_2021_u6828533.csv
+
+Your ANU ID check code is:           cfa50ccf
+Your student data set check code is: d43bbcab35aa
+
+  *** Check this pair of codes is in the list provided on Wattle
+  *** If not contact the course convenor.
+
+####  cfa50ccf / d43bbcab35aa
+
