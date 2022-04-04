@@ -1,4 +1,3 @@
-# Data Cleaning
-ANU COMP3430 : Data Wrangling - Assignment 2
+# comp3430-2021-ass2
 
-Mark: 14.25/15
+Data wrangling implementation (ANU COMP3430 assignment).
